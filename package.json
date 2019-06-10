@@ -1,11 +1,11 @@
 {
-  "name": "csrenato.github.io",
+  "name": "domzucc.github.io",
   "version": "0.0.1",
   "description": "Personal Website Based on JSON Resume",
-  "author": "Renato Ćurić",
+  "author": "Domagoj Zuccon",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csrenato/csrenato.github.io"
+    "url": "https://github.com/domzucc/domzucc.github.io"
   },
   "scripts": {
     "preview": "preview",
