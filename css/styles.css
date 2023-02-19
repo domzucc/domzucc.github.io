@@ -11250,6 +11250,10 @@ p {
   line-height: 1.75;
 }
 
+p.text-muted {
+  font-size: 1.25rem;
+}
+
 .page-section {
   padding: 2rem 0;
 }
@@ -11541,16 +11545,13 @@ header.masthead .masthead-heading {
   opacity: 1;
 }
 
-.showcase .showcase-text {
-  padding: 3rem;
-}
-.showcase .showcase-img {
+#showcase .showcase-img {
   min-height: 30rem;
   background-size: cover;
 }
 @media (min-width: 768px) {
-  .showcase .showcase-text {
-    padding: 7rem;
+  #showcase .showcase-text {
+    padding: 5rem;
   }
 }
 
