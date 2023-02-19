@@ -11356,7 +11356,7 @@ p {
   }
 }
 header.masthead {
-  padding-top: 10.5rem;
+  padding-top: 16.5rem;
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
@@ -11541,15 +11541,15 @@ header.masthead .masthead-heading {
   opacity: 1;
 }
 
-#showcase .showcase-text {
-  padding: 1rem;
+.showcase .showcase-text {
+  padding: 2rem;
 }
-#showcase .showcase-img {
+.showcase .showcase-img {
   min-height: 30rem;
   background-size: cover;
 }
 @media (min-width: 768px) {
-  #showcase .showcase-text {
+  .showcase .showcase-text {
     padding: 7rem;
   }
 }
